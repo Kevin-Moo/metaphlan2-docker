@@ -14,7 +14,7 @@ this excellent tool.
 
 You can get the docker image in two ways:
 
-1) Download this Dockerfile and run docker build
+1) Download this Dockerfile and run `docker build .`
 
 2) Pull the built one by `docker pull qhmu/metaphlan2-docker`
 
