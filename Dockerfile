@@ -1,7 +1,7 @@
 ##docker image for metaphlan 2
 ##link: https://bitbucket.org/biobakery/metaphlan2
 
-FROM d.quantibio.com/ubuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER muquanhua@quantibio.com
 
 #install dependencies first
